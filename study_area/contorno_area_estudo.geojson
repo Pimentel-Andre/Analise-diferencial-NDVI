@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "contorno_area_estudo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -43.177954535650933, -22.523225612444893 ], [ -43.154635154840825, -22.523133924184823 ], [ -43.154665717594185, -22.53795685956214 ], [ -43.177801721884151, -22.537987422315503 ], [ -43.177954535650933, -22.523225612444893 ] ] ] ] } }
+]
+}
